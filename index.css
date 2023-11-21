@@ -1,0 +1,81 @@
+.continer{
+    width: 190px;
+    height: 210px;
+    background-color: black;
+    margin: auto;
+    border-radius: 5px;
+    
+    
+}
+p{
+    color: white;
+    padding-top: 8px;
+    padding-left: 8px;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.screen{
+    width: 173px;
+    height: 34px;
+    margin-left: 5px;
+    border-radius: 3px;
+    color:black;
+    background-color: rgb(154, 208, 218);
+    font-size: 25px;
+    text-align: right;
+    border: solid;
+    border-color: rgb(32, 32, 32);
+    outline: none;
+}
+.button{
+    width:36px;
+    height:24px;
+    margin:3.8px;
+    background-color: rgb(65, 61, 61);
+    color: white;
+    border-radius: 5px;
+    border: solid;
+    border-width: 0px;
+    cursor: pointer;
+    margin-left: 4px;
+}
+.button1{
+    cursor: pointer;
+    width:36px;
+    height:24px;
+    margin:3.8px;
+    background-color: rgb(152, 23, 23);
+    color: white;
+    border: solid;
+    border-radius: 5px;
+   border-width: 0px;
+}
+.button:hover{
+    background-color: rgb(49, 48, 48);
+}
+.button:active{
+    border: 1.6px black solid;
+}
+.button1:active{
+    border: 1.6px rgb(0, 0, 0) solid;
+
+
+}
+.button1:hover{
+    background-color: rgb(134, 14, 14) ;
+}
+.buttonoperator{
+    background-color: rgb(112, 108, 108);
+    cursor: pointer;
+    width:36px;
+    height:24px;
+    margin:3.8px;
+    color: white;
+    border-radius: 5px;
+   border-width: 0px;
+}
+.buttonoperator:hover{
+    background-color:  rgb(92, 91, 91);
+}.buttonoperator:active{
+    border: 1.6px rgb(0, 0, 0) solid;
+}
